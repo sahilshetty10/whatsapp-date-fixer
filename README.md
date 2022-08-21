@@ -9,3 +9,4 @@ The script uses piexif for writing exif data. Install the dependency using pip
 ```sh
 pip install piexif
 ```
+Then place the python file in folder with whatsapp images and run it
